@@ -1,4 +1,4 @@
-name = "tmdb-proxy-worker"
+name = "11"
 main = "worker.js"
 compatibility_date = "2025-11-17"
 
